@@ -1,0 +1,152 @@
+body, p, span{
+    font-family: 'Roboto', sans-serif;
+    
+}
+h1,h2,h3,h4,h5,h6,a{
+   font-family: 'Rubik', sans-serif;
+}
+.success-story-section h5{
+    color: #3763eb;
+	font-size: 18px;
+    margin-top: 50px;
+}
+
+.success-story-section span {
+	display: block;
+	color: #3763eb;
+	margin-top: 25px;
+}
+.list1{
+    width: 55px;
+    height: 3px;
+    background: #3763eb;
+    margin: auto;
+
+}
+.blog-item .success-story-content h4 {
+	font-size: 26px;
+	margin-top: 20px;
+	margin-bottom: 16px;
+	color: #111;
+	transition: .3s;
+}
+.blog-item img{
+    max-width: 100%;
+}
+.blog-item p{
+    margin-bottom: 80px;
+}
+.blog-item .success-story-content a{
+	color: #111;
+	transition: .4s;
+	text-decoration: none;
+}
+.read-btn {
+	font-weight: 500;
+	text-decoration: none;
+}
+.blog-item .success-story-content a:hover{
+	color: #3763eb;
+	text-decoration: none;
+}
+.success-story-content .read-btn:hover{
+	letter-spacing: 1px;
+	text-decoration: none;
+}
+/*======================================*/
+	/* Footer Section */
+/*======================================*/
+
+.footer-section{
+	background: #111;
+	color: #fff;
+    padding-top: 50px;
+}
+.footer-text img {
+	margin-bottom: 26px;
+    height: 80px;
+    width: 100px;
+}
+.footer-text p {
+	width: 270px;
+	line-height: 1.8;
+}
+.footer-social-menu strong {
+	color: #fff;
+	margin-top: 20px;
+	display: block;
+}
+.footer-social-menu ul li {
+	display: inline-block;
+	position: relative;
+	top: -24px;
+	left: 50px;
+    list-style: none;
+}
+.footer-social-menu ul li a {
+	display: block;
+	color: #fff;
+	padding: 0 6px;
+	font-size: 18px;
+	text-decoration: none;
+    list-style: none;
+}
+.footer-social-menu ul li a:hover{
+	color: #3763eb;
+}
+.quick-links ul{
+	padding: 0;
+    list-style: none;
+}
+.quick-links ul li a {
+	color: #fff;
+	margin-top: 15px;
+	display: block;
+	transition: .4s;
+	text-decoration: none;
+    list-style: none;
+}
+.quick-links ul li a:hover{
+	color: #3763eb;
+	letter-spacing: 1px;
+}
+
+.quick-links h5 {
+	border-left: 2px solid #3763eb;
+	padding: 5px 20px;
+	font-size: 20px;
+	margin-bottom: 25px;
+	padding-bottom: 20px;
+}
+.location span {
+	margin-right: 20px;
+	font-size: 20px;
+	margin-top: 5px;
+}
+.location p {
+	font-size: 17px;
+	width: 231px;
+}
+.email-area a {
+	color: #fff;
+	transition: .4s;
+	text-decoration: none;
+}
+.email-area a:hover{
+	color: #3763eb;
+}
+
+.footer-section-bottom{
+	text-align: center;
+	padding: 30px;
+	background: #111;
+	border-top: 1px solid #292929;
+}
+.footer-section-bottom p {
+	color: #606060;
+	font-size: 20px;
+	margin: 0;
+}
+.footer-section-bottom p span{
+	color: #fff;
+}
